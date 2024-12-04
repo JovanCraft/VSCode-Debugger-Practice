@@ -24,3 +24,7 @@ const feedHippogriff = feedPet('Hippogriff');
 console.log(feedHippogriff('worms')); // Fed Hyrda worms.
 console.log(feedHippogriff('crickets')); // Fed Hyrda worms, crickets.
 console.log(feedHippogriff('chicken')); // Fed Hyrda worms, crickets, chicken.
+
+
+
+
