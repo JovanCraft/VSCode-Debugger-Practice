@@ -61,3 +61,7 @@ const calendar3 = [
 ];
 
 console.log(adequateWaterTracker(calendar3)); // true
+
+
+
+
