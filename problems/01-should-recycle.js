@@ -40,6 +40,7 @@ const waterBottle = {
 
 console.log(shouldRecycle(waterBottle)); // 'Recycle Me!'
 
+
 const tomatoCan = {
   plastic: false,
   color: 'red',
@@ -48,6 +49,7 @@ const tomatoCan = {
 };
 
 console.log(shouldRecycle(tomatoCan)); // 'Recycle Me!'
+
 
 const saladContainer = {
   plastic: true,
@@ -58,6 +60,7 @@ const saladContainer = {
 
 console.log(shouldRecycle(saladContainer)); // 'Currently, cannot be recycled.'
 
+
 const styrofoamContainer = {
   plastic: false,
   color: 'black',
@@ -66,4 +69,5 @@ const styrofoamContainer = {
 };
 
 console.log(shouldRecycle(styrofoamContainer)); // 'Cannot be recycled.'
+
 

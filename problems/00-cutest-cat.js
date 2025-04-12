@@ -20,6 +20,8 @@ function cutestCat(cats) {
   return cutest;
 }
 
+
+
 const cats = [
   { name: 'Fluffy', cuteness: 9 },
   { name: 'Princess', cuteness: 6 },
@@ -28,6 +30,7 @@ const cats = [
 ]
 
 console.log(cutestCat(cats)); // { name: 'Fluffy', cuteness: 9 }
+
 
 
 

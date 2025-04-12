@@ -46,12 +46,14 @@ const calendar1 = [
 
 console.log(adequateWaterTracker(calendar1)); // false
 
+
 const calendar2 = [
   [1, 1, 1, 1, 1, 1, 1],
   [0, 0, 0, 0, 0, 1, 1],
 ];
 
 console.log(adequateWaterTracker(calendar2)); // false
+
 
 const calendar3 = [
   [1, 1, 1, 1, 0, 0, 0],

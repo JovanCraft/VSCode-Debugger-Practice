@@ -17,13 +17,17 @@ function feedPet(name) {
 const feedHydra = feedPet('Hydra');
 
 console.log(feedHydra('bones')); // Fed Hyrda bones.
+
 console.log(feedHydra('Hercules')); // Fed Hyrda bones, Hercules.
 
 const feedHippogriff = feedPet('Hippogriff');
 
 console.log(feedHippogriff('worms')); // Fed Hyrda worms.
+
 console.log(feedHippogriff('crickets')); // Fed Hyrda worms, crickets.
+
 console.log(feedHippogriff('chicken')); // Fed Hyrda worms, crickets, chicken.
+
 
 
 
