@@ -71,5 +71,3 @@ const styrofoamContainer = {
 console.log(shouldRecycle(styrofoamContainer)); // 'Cannot be recycled.'
 
 
-
-
