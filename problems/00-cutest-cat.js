@@ -28,3 +28,7 @@ const cats = [
 ]
 
 console.log(cutestCat(cats)); // { name: 'Fluffy', cuteness: 9 }
+
+
+
+
